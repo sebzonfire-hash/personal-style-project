@@ -61,15 +61,7 @@ Inhalte sollen nicht unnötig dupliziert werden. Andere Dokumente verweisen auf 
 
 1. Inhaltliche Entwicklung in ChatGPT
 2. Fertigstellung als eigenständige Markdown-Datei
-3. Übernahme in das lokale Repository
-4. Projektweite Konsistenzprüfung mit Codex
-5. Versionierung über GitHub
-
-## Aktueller Stand
-
-* `01_Persönlichkeit.md`: vorhanden
-* `02_Stilphilosophie.md`: vorhanden
-* `03_Farbpalette.md`: in Bearbeitung
-* `04_Garderobenstruktur.md`: offen
-* `05_Outfitformeln.md`: offen
-* weitere Dokumente: geplant
+3. GitHub Dateien erstellen
+4. Übernahme in das lokale Repository
+5. Projektweite Konsistenzprüfung mit Codex
+   
