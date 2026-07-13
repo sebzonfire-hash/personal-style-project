@@ -15,47 +15,21 @@ Ziel ist keine lose Sammlung von Modeempfehlungen, sondern ein belastbares Entsc
 
 ## Projektstruktur
 
-### 01_Regelwerk
-
-Enthält die grundlegenden Prinzipien, nach denen Kleidungsstücke, Kombinationen und Kaufentscheidungen bewertet werden.
-
 Geplante Dokumente:
 
-1. Persönlichkeit
-2. Stilphilosophie
-3. Farbpalette
-4. Garderobenstruktur
-5. Outfitformeln
-6. Kaufregeln
-7. Materialien
-8. Schuhe
-9. Accessoires
-10. Pflege
-11. Saisonplanung
-12. Fehlkäufe
-13. Markenanalyse
-14. Einkaufsstrategie
-15. Checklisten
+README.md
+00_Projektvision.md
+01_Persönlichkeit.md
+02_Stilphilosophie.md
+03_Gestaltungsprinzipien.md
+04_Garderobe.md
+05_Farbpalette.md
+06_Materialien.md
+07_Inspiration.md
+08_Entscheidungslog.md
+09_Wunschliste.md
 
-### 02_Garderobe
 
-Enthält die tatsächlich vorhandenen Kleidungsstücke als einzelne Datensätze mit Fotos, Beschreibung, Bewertung und Kombinationshinweisen.
-
-### 03_Outfits
-
-Enthält konkrete, tragbare Kombinationen auf Basis der vorhandenen Garderobe.
-
-### 04_Optimierung
-
-Enthält offene Entscheidungen, Ersatzbedarf, Wunschlisten und priorisierte Maßnahmen zur Verbesserung der Garderobe.
-
-## Grundprinzip
-
-Jede Information soll einen eindeutigen Ort besitzen.
-
-Grundsätze werden im Regelwerk definiert. Einzelne Kleidungsstücke werden in der Garderobe dokumentiert. Konkrete Kombinationen werden unter Outfits erfasst. Maßnahmen und offene Entscheidungen gehören in den Bereich Optimierung.
-
-Inhalte sollen nicht unnötig dupliziert werden. Andere Dokumente verweisen auf die jeweils zuständige Quelle.
 
 ## Arbeitsweise
 
